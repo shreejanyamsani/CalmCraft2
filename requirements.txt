@@ -1,0 +1,24 @@
+# Core Web Framework
+streamlit
+# Database
+pymongo
+# AI/ML Libraries
+groq
+scikit-learn
+numpy
+# IBM Watson AI
+ibm-watsonx-ai
+langchain-ibm
+# Data Processing and Visualization
+pandas
+plotly
+# HTTP Requests
+requests
+# Environment Variables
+python-dotenv
+# Date and Time Utilities
+python-dateutil
+# Additional utilities
+certifi
+charset-normalizer
+urllib3
